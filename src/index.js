@@ -10,9 +10,10 @@
 
  module.exports = {
    Icon_AmericanExpress: require('./Icon_AmericanExpress.js'),
+   Icon_CreditCardOutline: require('./Icon_CreditCardOutline.js'),
    Icon_DinersClub: require('./Icon_DinersClub.js'),
    Icon_Discover: require('./Icon_Discover.js'),
    Icon_JCB: require('./Icon_JCB.js'),
-   Icon_Mastercard: require('./Icon_Mastercard.js'),
+   Icon_MasterCard: require('./Icon_MasterCard.js'),
    Icon_Visa: require('./Icon_Visa.js'),
  }
