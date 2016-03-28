@@ -1,6 +1,6 @@
 {
   "name": "material-ui-credit-card-icons",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Country flag icons for Material-UI",
   "main": "./lib/index.js",
   "standalone": "CountryFlags",
