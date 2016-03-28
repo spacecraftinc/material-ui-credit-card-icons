@@ -17,7 +17,7 @@ import IconButton from 'material-ui/lib/icon-button';
 
 import {
   Icon_Visa,
-  Icon_Mastercard
+  Icon_MasterCard
 } from 'material-ui-credit-card-icons';
 
 class MyComponent extends React.Component
@@ -27,7 +27,7 @@ class MyComponent extends React.Component
     return(
       <div>
         <IconButton><Icon_Visa /></IconButton>
-        <IconButton><Icon_Mastercard /></IconButton>
+        <IconButton><Icon_MasterCard /></IconButton>
       </div>
     );
   }
@@ -35,9 +35,13 @@ class MyComponent extends React.Component
 
 ```
 
-For list of icons refer to [the src folder](src/).
-[Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_credit_cards).
-[Source Code](https://github.com/codefoundries/isomorphic-material-relay-starter-kit/blob/master/units/imrsk-example-mui/webapp/components/MUI_Icons_CreditCards.jsx) of live demo.
+For more information:
+
+* For list of icons refer to [the src folder](src/).
+
+* [Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_credit_cards).
+
+* [Source Code](https://github.com/codefoundries/isomorphic-material-relay-starter-kit/blob/master/units/imrsk-example-mui/webapp/components/MUI_Icons_CreditCards.jsx) of live demo.
 
 
 ## Contributing
