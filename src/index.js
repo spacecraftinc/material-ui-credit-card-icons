@@ -8,15 +8,15 @@
  * Licensed under the MIT license.
  */
 
- var React   = require('React');
+ var React   = require ('react');
 
- var Icon_AmericanExpress   = require('./Icon_AmericanExpress.js');
- var Icon_CreditCardOutline = require('./Icon_CreditCardOutline.js');
- var Icon_DinersClub        = require('./Icon_DinersClub.js');
- var Icon_Discover          = require('./Icon_Discover.js');
- var Icon_JCB               = require('./Icon_JCB.js');
- var Icon_MasterCard        = require('./Icon_MasterCard.js');
- var Icon_Visa              = require('./Icon_Visa.js');
+ var Icon_AmericanExpress   = require ('./Icon_AmericanExpress.js');
+ var Icon_CreditCardOutline = require ('./Icon_CreditCardOutline.js');
+ var Icon_DinersClub        = require ('./Icon_DinersClub.js');
+ var Icon_Discover          = require ('./Icon_Discover.js');
+ var Icon_JCB               = require ('./Icon_JCB.js');
+ var Icon_MasterCard        = require ('./Icon_MasterCard.js');
+ var Icon_Visa              = require ('./Icon_Visa.js');
 
 
 function getCreditCardIconByName( iconName )
