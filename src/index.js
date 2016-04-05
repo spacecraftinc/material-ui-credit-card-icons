@@ -8,18 +8,27 @@
  * Licensed under the MIT license.
  */
 
- var React   = require ('react');
+ import React from 'react';
 
- var Icon_AmericanExpress   = require ('./Icon_AmericanExpress.js');
- var Icon_CreditCardOutline = require ('./Icon_CreditCardOutline.js');
- var Icon_DinersClub        = require ('./Icon_DinersClub.js');
- var Icon_Discover          = require ('./Icon_Discover.js');
- var Icon_JCB               = require ('./Icon_JCB.js');
- var Icon_MasterCard        = require ('./Icon_MasterCard.js');
- var Icon_Visa              = require ('./Icon_Visa.js');
+ export Icon_AmericanExpress   from './Icon_AmericanExpress';
+ export Icon_CreditCardOutline from './Icon_CreditCardOutline';
+ export Icon_DinersClub        from './Icon_DinersClub';
+ export Icon_Discover          from './Icon_Discover';
+ export Icon_JCB               from './Icon_JCB';
+ export Icon_MasterCard        from './Icon_MasterCard';
+ export Icon_Visa              from './Icon_Visa';
 
 
-function getCreditCardIconByName( iconName )
+ import Icon_AmericanExpress   from './Icon_AmericanExpress';
+ import Icon_CreditCardOutline from './Icon_CreditCardOutline';
+ import Icon_DinersClub        from './Icon_DinersClub';
+ import Icon_Discover          from './Icon_Discover';
+ import Icon_JCB               from './Icon_JCB';
+ import Icon_MasterCard        from './Icon_MasterCard';
+ import Icon_Visa              from './Icon_Visa';
+
+
+export function getCreditCardIconByName( iconName )
 {
   if( iconName == 'AmericanExpress' ) { return <Icon_AmericanExpress /> }
   if( iconName == 'DinersClub' )      { return <Icon_DinersClub /> }
@@ -29,15 +38,3 @@ function getCreditCardIconByName( iconName )
   if( iconName == 'Visa' )            { return <Icon_Visa /> }
                                         return <Icon_CreditCardOutline />;
 }
-
-
- module.exports = {
-   Icon_AmericanExpress: Icon_AmericanExpress,
-   Icon_CreditCardOutline: Icon_CreditCardOutline,
-   Icon_DinersClub: Icon_DinersClub,
-   Icon_Discover: Icon_Discover,
-   Icon_JCB: Icon_JCB,
-   Icon_MasterCard: Icon_MasterCard,
-   Icon_Visa: Icon_Visa,
-   getCreditCardIconByName: getCreditCardIconByName
- }

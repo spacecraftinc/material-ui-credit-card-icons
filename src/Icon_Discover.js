@@ -1,9 +1,9 @@
 'use strict';
 
-var React = require('react')
-var SvgIcon = require('material-ui/lib/svg-icon')
+import React from 'react';
+import SvgIcon from 'material-ui/lib/svg-icon';
 
-module.exports = function(props)
+export default function( props )
 {
   return(
     <SvgIcon viewBox="0 0 60 40" {...props}>

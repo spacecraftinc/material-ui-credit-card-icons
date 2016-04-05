@@ -1,8 +1,5 @@
-demo
-dist
-src
-test
+src/
+.babelrc
+.editorconfig
 .gitignore
 .jshintrc
-.travis.yml
-gulpfile.js
