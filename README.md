@@ -1,7 +1,7 @@
 material-ui-credit-card-icons
 =========================
 
-Library with credit card icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/). The boilerplate for the npm package is from [insin/templates/react-module/](https://github.com/insin/templates/tree/master/react-module).
+Library with credit card icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/).
 
 ## Installation
 
