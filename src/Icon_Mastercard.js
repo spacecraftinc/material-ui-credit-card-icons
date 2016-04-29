@@ -1,7 +1,7 @@
 'use strict';
 
 import React from 'react';
-import SvgIcon from 'material-ui/lib/svg-icon';
+import SvgIcon from 'material-ui/SvgIcon';
 
 export default function( props )
 {

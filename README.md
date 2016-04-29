@@ -9,6 +9,11 @@ Library with credit card icons for [Material-UI](http://www.material-ui.com/#/).
   npm install material-ui-credit-card-icons --save
 ```
 
+## Versions
+
+For React 0.14 and Material-UI 0.14 please use version 2.
+For React 15 and Material-UI 0.15 please use version 3 and above.
+
 ## Usage
 
 ```javascript
@@ -41,7 +46,7 @@ For more information:
 
 * [Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_credit_cards).
 
-* [Source Code](https://github.com/codefoundries/isomorphic-material-relay-starter-kit/blob/master/units/imrsk-example-mui/webapp/components/MUI_Icons_CreditCards.jsx) of live demo.
+* [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
 
 
 ## Contributing
