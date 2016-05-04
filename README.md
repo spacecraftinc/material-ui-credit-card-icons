@@ -1,7 +1,7 @@
 material-ui-credit-card-icons
 =========================
 
-Library with credit card icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Isomorphic Material Relay Starter Kit (IMRSK)](https://github.com/codefoundries/isomorphic-material-relay-starter-kit) by [Code Foundries](http://codefoundries.com/).
+Library with credit card icons for [Material-UI](http://www.material-ui.com/#/). Initially created for use in [Universal Relay Boilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) by [Code Foundries](http://codefoundries.com/).
 
 ## Installation
 
@@ -44,7 +44,7 @@ For more information:
 
 * For list of icons refer to [the src folder](src/).
 
-* [Live demo](http://isomorphic-material-relay.herokuapp.com/mui/icons_credit_cards).
+* [Live demo](http://universal-relay-boilerplate.herokuapp.com/mui/icons_credit_cards).
 
 * [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
 
