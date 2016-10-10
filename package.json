@@ -1,6 +1,6 @@
 {
   "name": "material-ui-credit-card-icons",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Credit Card icons for Material-UI",
   "main": "./lib/index.js",
   "standalone": "CreditCardIcons",

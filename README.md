@@ -46,7 +46,7 @@ For more information:
 
 * [Live demo](http://universal-relay-boilerplate.herokuapp.com/mui/icons_credit_cards).
 
-* [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/starter-kit-example-mui/webapp/components/MUI_Icons_CountryFlags.jsx) of live demo.
+* [Source Code](https://github.com/codefoundries/UniversalRelayBoilerplate/blob/master/units/urb-example-mui/webapp/components/MUI_Icons_CreditCards.js) of live demo.
 
 
 ## Contributing
