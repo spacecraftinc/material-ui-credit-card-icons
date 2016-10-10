@@ -9,7 +9,7 @@ export default function( props )
     <SvgIcon viewBox="0 0 60 40" {...props}>
       <g>
       	<path fill="#5666AF" d="M60,35c0,2.75-2.25,5-5,5H5c-2.75,0-5-2.25-5-5V5c0-2.75,2.25-5,5-5h50c2.75,0,5,2.25,5,5V35z"/>
-      	<path opacity="0.04" fill="#FFFFFF" enable-background="new    " d="M58.531,1.469C59.438,2.375,60,3.625,60,5v15v15
+      	<path opacity="0.04" fill="#FFFFFF" enableBackground="new    " d="M58.531,1.469C59.438,2.375,60,3.625,60,5v15v15
       		c0,1.375-0.562,2.625-1.469,3.531C57.624,39.438,56.375,40,55,40H30H5c-1.375,0-2.625-0.562-3.531-1.469L58.531,1.469z"/>
       	<path fill="#57B1D9" d="M30,0"/>
       	<g>

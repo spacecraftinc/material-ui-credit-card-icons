@@ -28,7 +28,7 @@ export default function( props )
       			z"/>
       	</g>
       	<path fill="#FFFFFF" d="M30,0"/>
-      	<path opacity="0.04" fill="#FFFFFF" enable-background="new    " d="M58.531,1.469C59.438,2.375,60,3.625,60,5v15v15
+      	<path opacity="0.04" fill="#FFFFFF" enableBackground="new    " d="M58.531,1.469C59.438,2.375,60,3.625,60,5v15v15
       		c0,1.375-0.562,2.625-1.469,3.531C57.624,39.438,56.375,40,55,40H30H5c-1.375,0-2.625-0.562-3.531-1.469L58.531,1.469z"/>
       	<g>
       		<path fill="#F7F8F9" d="M55,1c2.206,0,4,1.794,4,4v30c0,2.206-1.794,4-4,4H5c-2.206,0-4-1.794-4-4V5c0-2.206,1.794-4,4-4H55 M55,0
