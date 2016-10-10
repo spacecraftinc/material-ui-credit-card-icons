@@ -30,11 +30,11 @@
 
 export function getCreditCardIconByName( iconName )
 {
-  if( iconName == 'AmericanExpress' ) { return <Icon_AmericanExpress /> }
-  if( iconName == 'DinersClub' )      { return <Icon_DinersClub /> }
-  if( iconName == 'Discover' )        { return <Icon_Discover /> }
-  if( iconName == 'JCB' )             { return <Icon_JCB /> }
-  if( iconName == 'MasterCard' )      { return <Icon_MasterCard /> }
-  if( iconName == 'Visa' )            { return <Icon_Visa /> }
-                                        return <Icon_CreditCardOutline />;
+  if( iconName == 'AmericanExpress' || iconName == 'American Express' ) { return <Icon_AmericanExpress /> }
+  if( iconName == 'DinersClub' )                                        { return <Icon_DinersClub /> }
+  if( iconName == 'Discover' )                                          { return <Icon_Discover /> }
+  if( iconName == 'JCB' )                                               { return <Icon_JCB /> }
+  if( iconName == 'MasterCard' )                                        { return <Icon_MasterCard /> }
+  if( iconName == 'Visa' )                                              { return <Icon_Visa /> }
+                                                                          return <Icon_CreditCardOutline />;
 }
