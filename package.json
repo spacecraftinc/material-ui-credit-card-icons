@@ -1,9 +1,9 @@
 {
   "name": "material-ui-credit-card-icons",
-  "version": "3.1.0",
-  "description": "Country flag icons for Material-UI",
+  "version": "3.1.1",
+  "description": "Credit Card icons for Material-UI",
   "main": "./lib/index.js",
-  "standalone": "CountryFlags",
+  "standalone": "CreditCardIcons",
   "repository": {
     "type": "git",
     "url": "git://github.com/codefoundries/material-ui-credit-card-icons.git"
