@@ -1,6 +1,6 @@
 {
   "name": "material-ui-credit-card-icons",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "description": "Credit Card icons for Material-UI",
   "main": "./lib/index.js",
   "standalone": "CreditCardIcons",
@@ -23,7 +23,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@material-ui/core": "^4.9.5",
+    "@material-ui/core": "^4.9.5"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
@@ -41,5 +41,13 @@
   "scripts": {
     "compile": "babel -sd lib/ src/",
     "prepublish": "yarn run compile"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "restricted"
+  },
+  "files": [
+    "lib",
+    "src"
+  ]
 }
