@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-credit-card-icons",
+  "name": "@spacecraftinc/material-ui-credit-card-icons",
   "version": "3.3.0",
   "description": "Credit Card icons for Material-UI",
   "main": "./lib/index.js",
